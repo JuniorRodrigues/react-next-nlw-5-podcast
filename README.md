@@ -1,1 +1,2 @@
-#react-next-nlw-5-podcast
+# Rocketseat - Next Level Week #5
+React + Next + Typescript
